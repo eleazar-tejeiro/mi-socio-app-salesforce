@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Fecha_de_Retiro__c</fullName>
+    <description>Fecha en la que se retiró. No es obligatorio al agregar su experiencia actual.</description>
+    <externalId>false</externalId>
+    <label>Fecha de Retiro</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

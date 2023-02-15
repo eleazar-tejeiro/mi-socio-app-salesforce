@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Horario_laboral__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Horario laboral en el que trabaja el profesional.</description>
+    <externalId>false</externalId>
+    <label>Horario laboral</label>
+    <referenceTo>OperatingHours</referenceTo>
+    <relationshipName>Profesionales</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

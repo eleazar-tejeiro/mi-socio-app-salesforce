@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#DE742F</headerColor>
+        <logo>Diseno_sin_titulo</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Mi Socio</label>
+    <navType>Standard</navType>
+    <tabs>Departamento__c</tabs>
+    <tabs>Empleado__c</tabs>
+    <tabs>Experiencia_Laboral__c</tabs>
+    <tabs>Linea_de_Investigacion__c</tabs>
+    <tabs>Oficina__c</tabs>
+    <tabs>Titulo_Academico__c</tabs>
+    <tabs>standard-OperatingHours</tabs>
+    <tabs>Lista_de_empleados</tabs>
+    <tabs>standard-report</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Mi_Socio_UtilityBar</utilityBar>
+</CustomApplication>
